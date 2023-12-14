@@ -22,7 +22,7 @@ I'm a passionate Postdoctoral Researcher in Translational Medicine, exploring th
 - [ResearchGate Profile](https://www.researchgate.net/profile/Porncheera-Chusorn)
 
 ### Explore My Work
-- 📚 Check out & Dive into my [Portfolio](https://applepiece.github.io/).
+- 📚 Check out & Dive into my [Portfolio](https://applechu.wixsite.com/portfolio).
 
 ### What I Do For Fun
 - 🎤 Singing in the shower and, sometimes, on stage!
