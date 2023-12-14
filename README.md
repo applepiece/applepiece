@@ -1,32 +1,28 @@
-
-
 <!---
 applepiece/applepiece is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-
 # Welcome to My Portfolio!
 
-## Hi there! 👋 I'm [Your Full Name]
+## Hi there! 👋 I'm Porncheera Chusorn
 
 I'm a passionate Postdoctoral Researcher in Translational Medicine, exploring the fascinating intersection of biology and technology. My journey has taken me through a maze of exciting research projects, each adding a piece to the puzzle of understanding complex biological systems. 👀
 
 ### A Little About Me
-- 🌍 I'm based in [City, Country].
+- 🌍 I'm based in Khon Kaen, Thailand.
 - 🔬 I specialize in molecular lab techniques, biosensor development, and data analysis.
-- 🌱 I’m currently working on [Brief Description of Current Projects].
+- 🌱 I’m currently working on ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com).
+- 📫 How to reach me: [porncheera@gmail.com](mailto:porncheera@gmail.com).
 - 💬 Ask me about anything from molecular biology to the best way to cook pasta!
 
 ### Quick Links
-- [LinkedIn Profile](LinkedIn URL)
-- [ResearchGate Profile](ResearchGate URL)
+- [LinkedIn URL](https://www.linkedin.com/in/applechusorn/)
+- [ResearchGate Profile](https://www.researchgate.net/profile/Porncheera-Chusorn)
 
 ### Explore My Work
-- 📚 Check out my [Publications](URL-to-publications-page).
-- 🔎 Dive into my [Projects](URL-to-projects-page).
+- 📚 Check out & Dive into my [Portfolio](https://applepiece.github.io/).
 
 ### What I Do For Fun
 - 🎤 Singing in the shower and, sometimes, on stage!
@@ -36,5 +32,5 @@ I'm a passionate Postdoctoral Researcher in Translational Medicine, exploring th
 
 ---
 
-Feel free to browse through my portfolio and reach out if you'd like to collaborate or just have a chat over coffee!
+Feel free to browse through my portfolio and reach out if you'd like to collaborate or have a chat over coffee!
 
