@@ -1,48 +1,47 @@
-<h1 align="center">I make the invisible impossible to ignore.</h1>
+<p align="center">
+  <img src="https://applepiece.github.io/portfolio/assets/hero-clay.jpg" alt="A clay figure of Ple with a low bun, clear pink glasses, a wide smile and a lavender T-shirt" width="220">
+</p>
+
+<h1 align="center">Hi, I'm Ple.</h1>
 
 <p align="center">
-  <b>Porncheera Chusorn, Ph.D.</b> · เปิ้ล (Ple)<br>
-  Cell scientist · Brand builder · Storyteller
+  <b>Porncheera Chusorn, Ph.D.</b> · เปิ้ล<br>
+  A creative worker who wants to become a better version of myself, a little at a time, every day.<br>
+  ฉันเป็นคนทำงานสร้างสรรค์ ที่อยากเป็นตัวเองในเวอร์ชันที่ดีขึ้น ทีละนิด ทุกวัน
 </p>
 
 <p align="center">
-  <a href="https://applepiece.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-see_the_proof-6B2FD1?style=for-the-badge"></a>
-  <a href="https://recell-lab.org"><img alt="RE:CELL Lab" src="https://img.shields.io/badge/RE%3ACELL_Lab-recell--lab.org-4B1D8F?style=for-the-badge"></a>
-  <a href="https://orcid.org/0000-0002-1401-9760"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0002--1401--9760-8E44FF?style=for-the-badge"></a>
+  <a href="https://applepiece.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-read_my_stories-6B3F8E?style=for-the-badge"></a>
+  <a href="https://recell-lab.org"><img alt="RE:CELL Lab" src="https://img.shields.io/badge/RE%3ACELL_Lab-recell--lab.org-9B7BC2?style=for-the-badge"></a>
+  <a href="https://happlen.com"><img alt="Happlen" src="https://img.shields.io/badge/Happlen-happlen.com-F6B59A?style=for-the-badge&labelColor=6B3F8E"></a>
 </p>
 
 ---
 
-### Start with why
-
-**Knowledge only matters when it reaches someone's life.**
-ความรู้จะมีค่าก็ต่อเมื่อไปถึงชีวิตคน
+### What I believe
 
 | | |
 |---|---|
-| **Why** | Help people see what matters, and feel it. |
-| **How** | Look closer than anyone, then say it simply and beautifully. |
-| **What** | Research, teaching, brand and creative direction. |
+| **Knowledge only matters when it reaches someone's life.** | On my first portfolio in 2023 I wrote, "Translate knowledge into the community for people's well-being." I still believe it. |
+| **Invisible does not mean unimportant.** | Everything I have looked at for almost 20 years, cancer cells, proteins inside a single cell, bacteria hiding in cells, taught me that what matters usually starts where most people stop looking. |
+| **People act on what moves them, not on what is correct.** | So I give as much time to telling a story simply, beautifully and with feeling as I give to finding the answer. |
+| **A little better every day beats perfect in one day.** | I try to be the person who could not do something yesterday and can do it a little better today. |
 
-### 3 moves I use on everything
+### The stories that made me
 
-1. **Look closer.** I design imaging screens that read single cells and single bacteria. I own the Columbus high-content imaging pipeline for *Orientia* infection work at SiSP, Siriraj.
-2. **Make it make sense.** I teach undergraduates at Roi Et Rajabhat University, train graduate students, and hosted the SiSP Lab Open House for high-school students in 2017, 2018 and 2019.
-3. **Make them feel it.** I co-run [Happlen](https://happlen.com) with [@hengkp](https://github.com/hengkp) and set how the brand looks, sounds and feels.
+- **Looking at what the eye cannot see.** Almost 20 years at a microscope. It taught me patience, and looking a little longer where others have stopped. I now want to make the invisible impossible to ignore.
+- **Opening the lab door to high-school students.** Lab open houses three years running, 2017 to 2019, and four undergraduate courses. If a high-school student cannot follow it, I am not finished.
+- **Building my own lab from nothing.** RE:CELL Lab, since 2022, where undergraduates learn research by doing real projects. Starting small and growing together with the people in it.
+- **Making people feel it, from a brand to a stage.** I co-founded [Happlen](https://happlen.com) with [@hengkp](https://github.com/hengkp) and set how it looks, sounds and feels. Outside the lab I sing, coach singing and run events. The stage taught me timing.
 
-### Proof, not promises
+### Every day, a little better
 
-- **10** peer-reviewed papers, 2012 to 2025, in **8** journals
-- **Co-first author** · a chemically tunable FOXM1 sensor · *Journal of Cell Science*, 2025
-- **First author** · microRNA-21 in liver-fluke bile duct cancer · *Tumor Biology*, 2013
-- **2** deep-learning papers on counting bacteria in RNAi screen images · *Intelligent Systems with Applications*, 2023 and 2024
+Look at something more closely than before · tell one hard story one sentence shorter · sing one song · run, basketball or badminton · cook something new and let it be bad sometimes.
 
-### Where I work
+### Let's share
 
-- **RE:CELL Lab**, Medical Science Programme, Roi Et Rajabhat University · principal investigator, since 2022
-- **SiSP**, Faculty of Medicine Siriraj Hospital, Mahidol University · postdoc 2016 to 2021, Columbus imaging pipeline
-- **Happlen** · co-founder, brand and creative
+If you are building something from nothing, learning to make a hard story simple, or just want to get a little better too, write to me. I answer myself.
 
-### Say hello
+porncheera@gmail.com · [LinkedIn](https://www.linkedin.com/in/applechusorn/) · [ORCID](https://orcid.org/0000-0002-1401-9760) · [Google Scholar](https://scholar.google.com/citations?user=QUeXgUQAAAAJ)
 
-porncheera@gmail.com · [LinkedIn](https://www.linkedin.com/in/applechusorn/) · [Google Scholar](https://scholar.google.com/citations?user=QUeXgUQAAAAJ)
+<sub>Background: Ph.D. Medical Biochemistry · B.Sc. Biology · 10 peer-reviewed papers, 2012 to 2025 · lab work in Thailand and Singapore · head of RE:CELL Lab · co-founder of Happlen</sub>
